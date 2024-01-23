@@ -1,0 +1,5 @@
+Refactor some scramble file functions
+Refactor some parse_input file functions
+
+Create More Generators
+Create Better UI
